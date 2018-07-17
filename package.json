@@ -1,0 +1,22 @@
+{
+  "name": "words-scrambler",
+  "version": "1.0.0",
+  "description": "A Web App that is a page used for entering a multiset of letters and generates all words that exist in a dictionary using these letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triplem5ds/Words-Scrambler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triplem5ds/Words-Scrambler/issues"
+  },
+  "homepage": "https://github.com/Triplem5ds/Words-Scrambler#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
